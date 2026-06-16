@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+
 body{
-    background-color: black;
+    background-color: rgb(35, 189, 104);
+color: blue;
+font-family: "Roboto", sans-serif;
+}
+.cabecalho{
+background-color: yellow;
+text-align: center;
+padding: 30px;
+font-size: 40px;
+
 }
